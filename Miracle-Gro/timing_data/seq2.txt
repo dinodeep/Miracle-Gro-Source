@@ -1,0 +1,101 @@
+[node=	<root>,L,L] time=0.0474
+	[node=	<root>,L,L] elapsed-find-split=0.0469
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0985
+	[node=	<root>,L] elapsed-find-split=0.0507
+	[node=	<root>,L] elapsed-split=0.0004
+[node=	<root>] time=0.2031
+	[node=	<root>] elapsed-find-split=0.1036
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 0
+[node=	<root>,L,L] time=0.0468
+	[node=	<root>,L,L] elapsed-find-split=0.0463
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0971
+	[node=	<root>,L] elapsed-find-split=0.0498
+	[node=	<root>,L] elapsed-split=0.0004
+[node=	<root>] time=0.1941
+	[node=	<root>] elapsed-find-split=0.0961
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 1
+[node=	<root>,L,L] time=0.0480
+	[node=	<root>,L,L] elapsed-find-split=0.0475
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0988
+	[node=	<root>,L] elapsed-find-split=0.0504
+	[node=	<root>,L] elapsed-split=0.0004
+[node=	<root>] time=0.1958
+	[node=	<root>] elapsed-find-split=0.0961
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 2
+[node=	<root>,L,L] time=0.0447
+	[node=	<root>,L,L] elapsed-find-split=0.0442
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0920
+	[node=	<root>,L] elapsed-find-split=0.0469
+	[node=	<root>,L] elapsed-split=0.0003
+[node=	<root>] time=0.1916
+	[node=	<root>] elapsed-find-split=0.0986
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 3
+[node=	<root>,L,L] time=0.0465
+	[node=	<root>,L,L] elapsed-find-split=0.0460
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0968
+	[node=	<root>,L] elapsed-find-split=0.0498
+	[node=	<root>,L] elapsed-split=0.0004
+[node=	<root>] time=0.1946
+	[node=	<root>] elapsed-find-split=0.0969
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 4
+[node=	<root>,L,L] time=0.0411
+	[node=	<root>,L,L] elapsed-find-split=0.0407
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0856
+	[node=	<root>,L] elapsed-find-split=0.0441
+	[node=	<root>,L] elapsed-split=0.0003
+[node=	<root>] time=0.1836
+	[node=	<root>] elapsed-find-split=0.0970
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 5
+[node=	<root>,L,L] time=0.0425
+	[node=	<root>,L,L] elapsed-find-split=0.0421
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0894
+	[node=	<root>,L] elapsed-find-split=0.0464
+	[node=	<root>,L] elapsed-split=0.0003
+[node=	<root>] time=0.1872
+	[node=	<root>] elapsed-find-split=0.0969
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 6
+[node=	<root>,L,L] time=0.0472
+	[node=	<root>,L,L] elapsed-find-split=0.0467
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0942
+	[node=	<root>,L] elapsed-find-split=0.0467
+	[node=	<root>,L] elapsed-split=0.0003
+[node=	<root>] time=0.1934
+	[node=	<root>] elapsed-find-split=0.0982
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 7
+[node=	<root>,L,L] time=0.0447
+	[node=	<root>,L,L] elapsed-find-split=0.0442
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0924
+	[node=	<root>,L] elapsed-find-split=0.0473
+	[node=	<root>,L] elapsed-split=0.0003
+[node=	<root>] time=0.1913
+	[node=	<root>] elapsed-find-split=0.0979
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 8
+[node=	<root>,L,L] time=0.0416
+	[node=	<root>,L,L] elapsed-find-split=0.0411
+	[node=	<root>,L,L] elapsed-split=0.0003
+[node=	<root>,L] time=0.0876
+	[node=	<root>,L] elapsed-find-split=0.0456
+	[node=	<root>,L] elapsed-split=0.0003
+[node=	<root>] time=0.1883
+	[node=	<root>] elapsed-find-split=0.0998
+	[node=	<root>] elapsed-split=0.0007
+Done Training Tree: 9
+Full Training Time: 1.933s

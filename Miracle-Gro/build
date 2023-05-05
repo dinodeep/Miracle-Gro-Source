@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -o test -fopenmp -I src_parallel/ src_parallel/main.cpp
